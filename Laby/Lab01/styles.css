@@ -1,0 +1,38 @@
+.everything {
+  margin: 0;
+}
+
+.start {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 20px;
+  background-color: aqua;
+}
+
+input {
+  height: 30px;
+  width: 230px;
+  text-align: center;
+  background-color: rgb(1, 170, 255);
+}
+
+.middle {
+  display: flex;
+  align-items: flex-start;
+  justify-content: spaceevrything-between;
+}
+
+.list {
+  width: 30%;
+  border: 1px solid black;
+  padding-left: 20px;
+}
+
+.details {
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
